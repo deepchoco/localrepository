@@ -1,2 +1,2 @@
 # localrepository
- local
+ localreposit update
